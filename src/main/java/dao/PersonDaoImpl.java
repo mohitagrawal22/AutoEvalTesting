@@ -48,8 +48,6 @@ public class PersonDaoImpl implements PersonDao {
         
         Person pObj = em.find(Person.class,id);
         
-        //boolean boolObj = false;
-        
         if(pObj == null) throw new PersonException();
         
         em.getTransaction().begin();
