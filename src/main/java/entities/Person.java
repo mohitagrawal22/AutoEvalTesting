@@ -44,12 +44,12 @@ public class Person {
 	
 	
 	
-	public Person(int id, String name, double salary) {
-		super();
-		this.id = id;
-		this.name = name;
-		this.salary = salary;
-	}
+// 	public Person(int id, String name, double salary) {
+// 		super();
+// 		this.id = id;
+// 		this.name = name;
+// 		this.salary = salary;
+// 	}
 	
 	
 
