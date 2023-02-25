@@ -1,1 +1,1 @@
-<h1>Sample Assignment to test Automated Evaluation grading (SB101).
+<h2>Sample Assignment to test Automated Evaluation grading (SB101).
